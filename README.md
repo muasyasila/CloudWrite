@@ -1,6 +1,6 @@
-CloudWrite: Your Ultimate Online Collaborative Writing Tool
+LiveDocs: Your Ultimate Online Collaborative Writing Tool
 
-CloudWrite is a powerful and intuitive online editor designed to revolutionize the way you create, edit, and collaborate on documents. With CloudWrite, you can seamlessly work with others in real-time, making it the perfect tool for teams, students, and professionals.
+LiveDocs is a powerful and intuitive online editor designed to revolutionize the way you create, edit, and collaborate on documents. With CloudWrite, you can seamlessly work with others in real-time, making it the perfect tool for teams, students, and professionals.
 
 Key Features:
 
@@ -11,4 +11,4 @@ Version History: Track changes and revert to previous versions of your document 
 Secure Sharing: Share your documents securely with customizable permissions to control who can view and edit your work.
 CloudWrite is designed with user experience in mind, offering a clean and intuitive interface that makes document creation and collaboration a breeze. Whether you're drafting a business proposal, collaborating on a project report, or writing a research paper, CloudWrite has got you covered.
 
-Join the CloudWrite community today and experience the future of online document editing and collaboration.
+Join the LiveDocs community today and experience the future of online document editing and collaboration.
